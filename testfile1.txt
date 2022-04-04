@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2A65-31E2
+
+ Directory of C:\Users\mahes\Documents\GitProject1
+
+04-04-2022  20:15    <DIR>          .
+04-04-2022  20:15    <DIR>          ..
+04-04-2022  20:15                 0 testfile1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  383,990,382,592 bytes free
